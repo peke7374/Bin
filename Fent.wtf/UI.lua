@@ -74,10 +74,10 @@ local Library do
         },
 
         Images = { -- you're welcome to reupload the images and replace it with your own links
-            ["Saturation"] = {"Saturation.png", "https://github.com/sametexe001/images/blob/main/saturation.png?raw=true" },
-            ["Value"] = { "Value.png", "https://github.com/sametexe001/images/blob/main/value.png?raw=true" },
-            ["Hue"] = { "Hue.png", "https://github.com/sametexe001/images/blob/main/horizontalhue.png?raw=true" },
-            ["Checkers"] = { "Checkers.png", "https://github.com/sametexe001/images/blob/main/checkers.png?raw=true" },
+            ["Saturation"] = {"Saturation.png", "https://github.com/peke7374/Bin/blob/main/Fent.wtf/Assets/saturation.png?raw=true" },
+            ["Value"] = { "Value.png", "https://github.com/peke7374/Bin/blob/main/Fent.wtf/Assets/value.png?raw=true" },
+            ["Hue"] = { "Hue.png", "https://github.com/peke7374/Bin/blob/main/Fent.wtf/Assets/horizontalhue.png?raw=true" },
+            ["Checkers"] = { "Checkers.png", "https://github.com/peke7374/Bin/blob/main/Fent.wtf/Assets/checkers.png?raw=true" },
         },
 
         -- Ignore below
@@ -609,7 +609,7 @@ local Library do
         end
 
         CustomFont:New("Windows-XP-Tahoma", 200, "Regular", {
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/windows-xp-tahoma.ttf"
+            Url = "https://github.com/peke7374/Bin/raw/refs/heads/main/Fent.wtf/Assets/windows-xp-tahoma.ttf"
         })
 
         Library.Font = CustomFont:Get("Windows-XP-Tahoma")
